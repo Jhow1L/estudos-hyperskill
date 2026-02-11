@@ -1,0 +1,11 @@
+# Configurações do IntelliJ
+.idea/
+*.iml
+out/
+gen/
+
+# Arquivos de compilação
+*.class
+
+# Logs e temporários
+*.log

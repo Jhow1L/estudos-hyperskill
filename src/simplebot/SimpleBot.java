@@ -1,3 +1,5 @@
+package simplebot;
+
 import java.util.Scanner;
 
 public class SimpleBot {
