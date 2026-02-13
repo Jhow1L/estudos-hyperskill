@@ -28,6 +28,10 @@ public class Cinema {
         }
     }
 
+    public void showRoom(Room room){
+        room.printSeats();
+    }
+
     public double calculateTotalIncome(){
         double totalIncome = 0;
         for (int i = 0; i < numberOfRooms; i++){
@@ -47,6 +51,11 @@ public class Cinema {
             }
             rooms = newRooms;
         }
+    }
+
+    public double buyTicket(Room room, int row, int seat) throws Exception{
+        room.reserveSeat(row, seat);
+        return room.seatPrice(row);
     }
 
 

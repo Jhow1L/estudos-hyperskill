@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba7e6b19-d93e-4c76-bd40-9712c450282e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cinemamanager/Cinema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cinemamanager/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cinemamanager/Room.java" afterDir="false" />
+    <list default="true" id="ba7e6b19-d93e-4c76-bd40-9712c450282e" name="Changes" comment="Implementando Stage 3: compra de ingressos e validacao">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hyperskill-java/cinemamanager/Cinema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hyperskill-java/cinemamanager/Cinema.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hyperskill-java/cinemamanager/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hyperskill-java/cinemamanager/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hyperskill-java/cinemamanager/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hyperskill-java/cinemamanager/Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cinemamanager/Cinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cinemamanager/Cinema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cinemamanager/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cinemamanager/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cinemamanager/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cinemamanager/Room.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,8 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Cinema.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Mainn.executor": "Run",
+    "Application.TimeConstantDemo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -69,5 +74,9 @@
       <updated>1770851367103</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implementando Stage 3: compra de ingressos e validacao" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementando Stage 3: compra de ingressos e validacao" />
   </component>
 </project>
